@@ -10,7 +10,7 @@ This is my collections of using Python to solve interesting topics in life. Hope
 原始資料：104行銷企劃拷貝.csv <br>
 產出資料：output.csv <br>
 
-2. 
-主要分析：
-原始資料：
-產出資料：
+2. 2020第一季警政署犯罪資料<br>
+主要分析：[資料分析]政府資料開放平台警政署資料 20200506.ipynb <br>
+原始資料：<br>
+產出資料：na
