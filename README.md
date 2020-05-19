@@ -14,3 +14,8 @@ This is my collections of using Python to solve interesting topics in life. Hope
 主要分析：[資料分析]政府資料開放平台警政署資料 20200506.ipynb <br>
 原始資料：10901-10903犯罪資料.csv <br>
 產出資料：na
+
+3. 備忘錄系統<br>
+主要程式：practiceProjectv4 20200508.py <br>
+包裝程式：practiceProjectv4_functions.py <br>
+產出資料：tiffany_memo_history.csv
