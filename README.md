@@ -15,7 +15,7 @@ a) data cleaning: able to use the pandas library for preparing data for analysis
 2. 2020第一季警政署犯罪資料<br>
 主要分析：[資料分析]政府資料開放平台警政署資料 20200506.ipynb <br>
 原始資料：10901-10903犯罪資料.csv <br>
-產出資料：na
+產出資料：na <br>
 skills：
 a) data cleaning: able to use the pandas library for preparing data for analysis.
 b) data visualization: creating visualizations using available Python libraries (matplotlib, plotly).
